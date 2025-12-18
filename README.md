@@ -87,4 +87,4 @@ Our readme section could use some work. For instance, we should list ways to run
 
 Video tutorials of data scientists working through the above exercises:
 
-[Data Talks - Pandas Learning By Doing](https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv)
+[Data Talks - Pandas Learning By Doing](https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv) 
